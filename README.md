@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! My name is Mate and I'm a Frontend Developer from Georgia.
+Hi 👋! My name is Mate and I'm a Developer from Georgia.
 
 
 ## 🌐 Socials:
