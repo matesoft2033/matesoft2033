@@ -14,7 +14,7 @@ I am a passionate high school student, driven by curiosity for technology and a 
 
 ## ⚡ Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,js,bootstrap,arduino,cpp,git)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,js,bootstrap,arduino,cpp,git,github,vscode,pycharm)](https://skillicons.dev)  
 
 ## 🌱 Currently Exploring  
 
