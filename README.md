@@ -2,7 +2,7 @@
 
 I am a passionate high school student, driven by curiosity for technology and a love for coding. My journey involves exploring computer science, engineering, and entrepreneurship while building cool projects and sharing insights with the community.  
 
-![Mate's Stats](https://github-readme-stats.vercel.app/api?username=mates&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+![Mate's Stats](https://github-readme-stats.vercel.app/api?username=matesoft2033&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me  
 
