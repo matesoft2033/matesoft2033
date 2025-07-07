@@ -1,20 +1,28 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTR3MTJtejhqZGRvMnptcGd1eHl2d3BqNXFybHNkMGl4b24wcGZoaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HPeLSXWtdnUzK/giphy.gif" width="350" alt="Mate coding gif" />
+</p>
 
 <h1 align="center">Hi, I'm Mate — a Software Engineer who strives to think better every day 🚀</h1>
 <h3 align="center">Passionate about building with code, solving real-world problems, and learning continuously</h3>
+
+---
+
+### 💡 My Thoughts on Programming
+> “Do not learn a programming language, just do it.”  
+> — *Mate Sichinava*
+
+> “Learn how to think, not just how to code.”
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=matesoft2033&label=Profile%20views&color=0e75b6&style=flat" alt="matesoft2033" />
 </p>
 
----
-
 ## 🚀 Current Focus
 - 🧠 Learning: **Machine Learning, Python (Flask), Data Structures & Algorithms, Web Dev, Electronics**
 - 🔬 Building: [**Disease Symptom Predictor AI**](https://github.com/matesoft2033/disease-symptom-predictor-ai)
 - 🛠 Tinkering with: **Arduino, Sensors, and circuit-based automation**
-
----
 
 ## 💬 Ask Me About
 - 🧩 Problem Solving & Algorithms  
@@ -89,6 +97,3 @@
 
 ## ⚡ Fun Fact  
 **I love combining code with circuits. You could say I’m training to be a mini Tony Stark.**
-
----
-
